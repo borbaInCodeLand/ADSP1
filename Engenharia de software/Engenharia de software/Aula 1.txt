@@ -1,0 +1,49 @@
+Engenharia de software
+----------------------------------------------------------------------
+ferramentas como sonar e ferramentas estaticas de codigo.
+"codigo sujo"
+
+codeLoko@123
+----------------------------------------------------------------------
+
+requisito funcional: verbos. o que os negocios fazem.
+a regra de negocio: tem relação com as necessidades do cliente.
+
+assim os requisitos funcionais ficam abaixo da regra de negocio hierarquicamente.
+
+
+Aspectos do desenvolvimento de software:
+ferramentas.
+metodologias.
+métodos e técnicas.
+principios.
+
+visão sistemica é parte principal da coisa, de acordo com o professor israel:<strong> É necessario ser um vanguardista. </strong>
+
+"Scrum is a management framework that teams use to self-organize and work towards a common goal. It describes a set of meetings, tools, and roles for efficient project delivery. Much like a sports team practicing for a big match, Scrum practices allow teams to self-manage, learn from experience, and adapt to change."
+
+"What is the Agile methodology? The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement. Teams follow a cycle of planning, executing, and evaluating."
+
+
+
+
+
+A comprenção das tecnologias e a prevenção de problemas a exemplo de problemas relacionados a compatibilidade podem causar a perda de semanas de trabalho da equipe.
+
+/prototipar o conceito é super importante/
+
+prototipo --->  prototipo gameficado --->
+
+entregas consantes e ciclos de desenvolvimento bem estabelecidos são essencias para o trabalho com eficiencia de uma equipe de desenvolvimento.
+
+A satisfação do cliente é proporcional a qualidade do codigo no geral. assim codigo utíl e eficiente geram beneficies.
+
+Estudar o problema
+
+Planejar uma solução
+
+Verificar a viabilidade econômica e técnica 
+
+Coordenar a construção
+
+Processos Evolutivos incrementais vs Waterfall

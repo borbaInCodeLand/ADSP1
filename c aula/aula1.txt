@@ -1,0 +1,71 @@
+Anotaçoes Malignas para aprender o maravilhoso C 
+por: Felipe Borba
+
+--------------------------------------------------------------
+
+lista de leitura:
+podem as maquinas pensar - turing
+tem ciência - paradoxo do aniversario e ataque do aniversario.
+paradigma imperativo
+
+--------------------------------------------------------------
+8 bits -> 1 Byte -> 2³bits
+
+portanto um byte pode pode armasenar 2^8 = 256 diferetes valores.
+prefixos binarios
+
+2^10 = 1024bits            = 1Kbyte 
+2^20 = 1.048.576 bits      = 1MB
+2^30 = 1.073.741.824 bits  = 1GB
+2^40 =  {}                 = 1TB
+
+-------------------------------------------------------------
+
+um bit armasena um digito que pode ser 0 ou 1.
+um conjunto com oito desses formam um byte.
+um byte que é formado por um octeto pode conter até 256 digitos. lembrando= 0~255. 
+*o numero zero conta carai! não esquece nao.
+
+-------------------------------------------------------------
+
+A unidade de medida de transfereencia de sinal é bps, ou seja BIT por segundo, não Bytes.
+e portanto a internet de um giga é de um gigabit.
+
+-------------------------------------------------------------
+Em computação palavra é a unidade de informação natural usada por cada tipo de computador em particular.
+isto é o comprimento da palavra vai variar, exemplo windows xp, que é 32x ou seja o tamanho da palavra 2^32.
+já no windows 64x o tamanho da palvra é de 2^64.
+já a limitação de memoria das maquinas atuais passam por um problema conheceido como de gargalo de Von Neumann.
+este problema se da pela taxa de transferencia que é limitante ao tamanho das palavras e da velocidade da memoria.
+sendo a placa mae a limitante nos computadores ordinarios do limite maximo da memoria.
+existindo servidores com memorias de ate 2tb de ram, com custos aproximados de um milhao.
+
+--------------------------------------------------------------
+Algoritimos <strong> tem fim </strong>
+
+é importante ter em mente que a definição de algoritimo nao é formal.
+
+São sequencias finitas de regra, raciocínios e operações que . aplicadas a um numero finitos de dados.
+
+partindo de um estado conhecido, usando regras bem definidas em um período finito de tempo chegando a um resultado esperado.
+
+*definição do professor*
+Um algoritimo pode ser definido como uma sequência de passos que visam atingir um objetivo bem definido.
+Ou como uma sequência ordenada e finita de passos. cuja execução, passo a passo resolve um determinado problema.
+*fim da definição do professor*
+
+Na informatica -> Conjunto de regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas.
+
+3 formas de representar um algoritimo:
+1º forma descritiva; por sua natureza é frequentemente imprecisa.
+é sendo necessario um usuario habilidoso com a lingua para tornar possivel uma descriçrição narrativa.
+2º fluxogramas.
+3º linguagem de progamação.
+
+Assim progamar é basicamente construir algoritimos. ou transcrever os algoritimos para a leitura de um compitador.
+
+--------------------------------------------------------------
+
+
+
+
